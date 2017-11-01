@@ -1,3 +1,6 @@
+# INFO
+Trelo: https://trello.com/b/Yj4fBKLC
+
 # LICENCES
 
 	this repo is available under dual licence GNU Affero General Public License v3.0
